@@ -3,6 +3,6 @@
 A new Flutter project.
 
 ## Screenshot
-(screenshot/Screenshot_1762167474.png)
+![Tampilan Utama Aplikasi](screenshot/Screenshot_1762167474.png "Ini adalah tampilan utama aplikasi")
 
 
